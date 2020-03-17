@@ -1,0 +1,89 @@
+{
+  "EDITOR_STATE": {
+    "allProjectFiles": {
+      "2f60a975-012e-4a3c-9b5a-9003627bd004": {
+        "id": "2f60a975-012e-4a3c-9b5a-9003627bd004",
+        "parent": null,
+        "name": "test17-3-2020-indu1.js",
+        "type": "JS_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "test17-3-2020-indu1.js",
+        "cursor": {
+          "lineNumber": 3,
+          "column": 51
+        },
+        "config": {
+          "runtime": "nodejs8",
+          "timeout": 60,
+          "memory": 128,
+          "triggerType": 0,
+          "handler": "handler"
+        },
+        "triggers": [
+          {
+            "resourceName": "http-trigger",
+            "config": {}
+          }
+        ]
+      },
+      "7fafb9d6-fb8a-4d4f-ac98-ca3ab154c66e": {
+        "id": "7fafb9d6-fb8a-4d4f-ac98-ca3ab154c66e",
+        "parent": null,
+        "name": "index.js",
+        "type": "JS_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": false,
+        "filePath": "index.js"
+      },
+      "2362afd4-c327-4028-89af-d21fcb560804": {
+        "id": "2362afd4-c327-4028-89af-d21fcb560804",
+        "parent": null,
+        "name": "main.py",
+        "type": "PYTHON_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": false,
+        "filePath": "main.py"
+      }
+    },
+    "openFiles": [
+      "2f60a975-012e-4a3c-9b5a-9003627bd004"
+    ],
+    "currentFileId": "2f60a975-012e-4a3c-9b5a-9003627bd004",
+    "resources": {
+      "http-trigger": {
+        "name": "http-trigger",
+        "type": "http-trigger",
+        "config": {}
+      }
+    },
+    "customTemplate": {
+      "dialect": null,
+      "definitions": null
+    },
+    "envVariables": [],
+    "packageJSON": {
+      "dependencies": {}
+    }
+  },
+  "PROJECT_META": {
+    "projectName": "test17-3-2020-indubelgium",
+    "projectDescription": "",
+    "projectVersion": "1.0.0",
+    "projectRegion": "europe-west1",
+    "platform": "GCP",
+    "language": "nodejs",
+    "platformRegions": {},
+    "lastSave": 1584425124705
+  },
+  "VCS_STATE": {
+    "provider": "GitHub",
+    "repo": {
+      "name": "test17-3-2020-indubelgium",
+      "url": "https://github.com/Indunil1992/test17-3-2020-indubelgium"
+    }
+  }
+}
